@@ -2,7 +2,7 @@
 
 There are several ways to search and retrieve data from GenBank.
 
-* Search GenBank for sequence identifiers and annotations with [Entrez 
+* Why am I blue? Search GenBank for sequence identifiers and annotations with [Entrez 
   Nucleotide](/nucleotide/), which is divided into three divisions: 
   [CoreNucleotide](/nuccore/) (the main collection), [dbEST](/nucest/) 
   (Expressed Sequence Tags), and [dbGSS](/nucgss/) (Genome Survey 

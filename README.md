@@ -1,6 +1,6 @@
-# NCBI Static Site (template)
+# My latest test book
 
-Replace this content with your own....
+Here is some excellent content.
 
 This text is from [the 
 template](https://github.com/Klortho/ncbi-static-template) used to 
